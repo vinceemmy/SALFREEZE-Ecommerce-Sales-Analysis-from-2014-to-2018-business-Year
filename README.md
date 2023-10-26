@@ -32,6 +32,7 @@ PROFITS FROM 2014 TO 2018 ON PIVOT          | 		PROFITS FROM 2014 TO 2018 ON CHA
 ![](profits-p.png) 			         |			 ![](profits-v.png)
 NUMBER OF SHIPPINGS BY YEAR ON PIVOT     | 		NUMBER OF SHIPPINGS BY YEAR ON CHART
 ![](shippings-p.png) 			         |			 ![](shippings-v.png)
+
 ![](summary.png)
 
 ---
