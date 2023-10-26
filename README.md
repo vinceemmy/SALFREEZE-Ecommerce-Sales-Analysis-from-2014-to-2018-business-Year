@@ -50,7 +50,7 @@ NUMBER OF SHIPPINGS BY YEAR ON PIVOT     | 		NUMBER OF SHIPPINGS BY YEAR ON CHAR
 ---
 ---
 # Comments and Recommendations
-#### The business recorded a fast growth in its first five years in the market by making a remarkable Profit Margin of 12.5%.
+#### The business recorded a fast growth in its first four years in the market by making a remarkable Profit Margin of 12.5%.
 #### However, there was a great decline in profit in 2018 which on observation was said to be from the fact that there was a sharp decline in the number of items ordered and shipped across the country in 2018.
 #### The Company should carry out a customer survey to get customer satisfaction feedback. It could help to know the reason why there was a fall in the number of items ordered in 2018.
 ---
